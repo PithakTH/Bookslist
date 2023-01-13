@@ -1,0 +1,20 @@
+[
+    {
+        "title" : "What is bird?",
+        "subtitle" : "A bird is a creature with feathers and wings. Female birds lay eggs. Most birds can fly.",
+        "image_url" : "https://cdn.pixabay.com/photo/2015/06/19/21/33/seagulls-815304_960_720.jpg",
+        "detail" : "Birds are endothermic. The heat loss from their bodies is slowed down by their feathers. Modern birds are toothless: they have beaked jaws. They lay hard-shelled eggs. They have a high metabolic rate, a four-chambered heart and a strong yet lightweight skeleton."
+    },
+    {
+        "title" : "What is fish?",
+        "subtitle" : "Fish are aquatic vertebrate animals that have gills but lack limbs with digits, like fingers or toes. Recall that vertebrates are animals with internal backbones. Most fish are streamlined in their general body form.",
+        "image_url" : "https://cdn.pixabay.com/photo/2016/11/29/09/43/koi-fish-1868779_960_720.jpg",
+        "detail" : "There are many different kinds of fish. They live in fresh water in lakes and rivers, and in salt water in the oceans. Some fish are less than one centimeter long. The largest fish is the whale shark, which can be almost 15 meters long and weigh 15 tons. Almost all fish live in the water. A group of fish called the lungfish have developed lungs because they live in rivers and pools which dry up in certain parts of the year. They burrow into mud and aestivate until the water returns."
+    },
+    {
+        "title" : "What is fox?",
+        "subtitle" : "A fox is a wild animal which looks like a dog and has reddish-brown fur, a pointed face and ears, and a thick tail. Foxes eat smaller animals.",
+        "image_url" : "https://cdn.pixabay.com/photo/2016/12/05/11/39/fox-1883658_960_720.jpg",
+        "detail" : "A fox is a small mammalian carnivore. They hunt and eat live prey, mostly rabbits and rodents (squirrels and mice). They may also eat grasshoppers, birds' eggs, and even fruit and berries. Sometimes they eat carrion. Foxes are the smallest members of the dog family Canidae."
+    }
+]
